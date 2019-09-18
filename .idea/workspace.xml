@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7578322-de01-4f10-86b2-bf46d988a6cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ex1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Ex1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ex1/Ex1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ex1/Ex10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ex1/Ex2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ex1/Ex3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ex1/Ex4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ex1/Ex5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ex1/Ex6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ex1/Ex7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ex1/Ex8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ex1/Ex9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Ex10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Ex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Ex3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Ex4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Ex5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Ex6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Ex7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Ex8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Ex1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +31,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/junit-4.12.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Ex1.java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
