@@ -5,11 +5,7 @@ public class EvenNumTest {
 
 
     public static boolean isEven(int a){
-        if(a<0)
-        {
-            return false;
-        }
-        else if(a%2==0)
+        if(a%2==0)
         {
             return true;
         }
